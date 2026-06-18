@@ -38,6 +38,17 @@ export default function Footer() {
             Dibuat untuk pembelajaran statistika interaktif
           </p>
         </div>
+        <div className="border-t border-gray-200 pt-6 mt-6">
+          <p className="text-gray-500 text-xs text-center mb-3">
+            Dibuat oleh:
+          </p>
+          <div className="flex flex-wrap justify-center gap-x-4 gap-y-1">
+            <span className="text-gray-600 text-xs">Fahlig Aryo Jenar Maheswara</span>
+            <span className="text-gray-600 text-xs">Muhammad Farhan Fauzul Adzim</span>
+            <span className="text-gray-600 text-xs">Priyamitha Aristadewi</span>
+            <span className="text-gray-600 text-xs">Virziankha Merdeka Darwanto</span>
+          </div>
+        </div>
       </div>
     </footer>
   );
