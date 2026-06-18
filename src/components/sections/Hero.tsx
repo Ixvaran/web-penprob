@@ -183,12 +183,22 @@ export default function Hero() {
             initial={{ opacity: 0, y: 15 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.5, duration: 0.8 }}
-            className="hero-description max-w-[700px] mx-auto mb-10"
+            className="hero-description max-w-[700px] mx-auto mb-4"
           >
             Pelajari distribusi normal melalui{' '}
             <span className="hero-description-highlight">visualisasi interaktif</span>,{' '}
             <span className="hero-description-highlight">kalkulator real-time</span>, dan pembahasan{' '}
             <span className="hero-description-highlight">langkah demi langkah</span>.
+          </motion.p>
+
+          {/* Subtitle - Info Tugas */}
+          <motion.p
+            initial={{ opacity: 0, y: 15 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.6, duration: 0.8 }}
+            className="hero-subtitle max-w-[600px] mx-auto mb-8"
+          >
+            Dibuat untuk memenuhi tugas proyek mata kuliah Pengantar Probabilitas, Prodi Statistika, Kelas B
           </motion.p>
 
           {/* CTA Buttons */}

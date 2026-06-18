@@ -545,6 +545,21 @@ html.dark .hero-description-highlight {
   color: #BFD5FF;
 }
 
+/* Subtitle */
+.hero-subtitle {
+  font-family: var(--font-sans);
+  font-weight: 400;
+  font-size: 0.75rem;
+  line-height: 1.6;
+  letter-spacing: 0.02em;
+  color: var(--muted-text);
+  text-align: center;
+}
+
+html.dark .hero-subtitle {
+  color: rgba(224, 232, 250, 0.55);
+}
+
 /* CTA Buttons */
 .btn-primary-custom {
   display: inline-flex;
