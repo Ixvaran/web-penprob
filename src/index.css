@@ -560,6 +560,22 @@ html.dark .hero-subtitle {
   color: rgba(224, 232, 250, 0.55);
 }
 
+/* Creators */
+.hero-creators {
+  font-family: var(--font-sans);
+  font-weight: 400;
+  font-size: 0.7rem;
+  line-height: 1.6;
+  letter-spacing: 0.04em;
+  color: var(--muted-text);
+  text-align: center;
+  opacity: 0.8;
+}
+
+html.dark .hero-creators {
+  color: rgba(224, 232, 250, 0.5);
+}
+
 /* CTA Buttons */
 .btn-primary-custom {
   display: inline-flex;

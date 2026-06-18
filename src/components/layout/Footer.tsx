@@ -8,6 +8,8 @@ export default function Footer() {
             <p className="text-gray-600 text-sm leading-relaxed">
               Website pembelajaran interaktif untuk memahami konsep distribusi normal,
               distribusi normal baku, dan invers normal baku dalam statistika.
+              <br /><br />
+              Dibuat untuk memenuhi tugas proyek mata kuliah Pengantar Probabilitas, Prodi Statistika, Kelas B
             </p>
           </div>
           <div>
@@ -24,9 +26,8 @@ export default function Footer() {
           <div>
             <h4 className="text-sm font-semibold text-gray-700 uppercase tracking-wider mb-3">Referensi</h4>
             <ul className="space-y-2 text-sm text-gray-600">
-              <li><span className="hover:text-primary-600 transition-colors cursor-default">Distribusi Normal — Statistika Matematika</span></li>
-              <li><span className="hover:text-primary-600 transition-colors cursor-default">Tabel Z — Standard Normal Distribution</span></li>
-              <li><span className="hover:text-primary-600 transition-colors cursor-default">Central Limit Theorem</span></li>
+              <li><span className="hover:text-primary-600 transition-colors cursor-default">Walpole, R. E., et al. (1993). Probability and Statistics for Engineers and Scientists</span></li>
+              <li><span className="hover:text-primary-600 transition-colors cursor-default">Pratikno, A. S., et al. (2020). Sebaran Peluang Acak Kontinu &amp; Distribusi Normal</span></li>
             </ul>
           </div>
         </div>

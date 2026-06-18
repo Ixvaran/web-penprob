@@ -196,9 +196,19 @@ export default function Hero() {
             initial={{ opacity: 0, y: 15 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.6, duration: 0.8 }}
-            className="hero-subtitle max-w-[600px] mx-auto mb-8"
+            className="hero-subtitle max-w-[600px] mx-auto mb-4"
           >
             Dibuat untuk memenuhi tugas proyek mata kuliah Pengantar Probabilitas, Prodi Statistika, Kelas B
+          </motion.p>
+
+          {/* Nama Pembuat */}
+          <motion.p
+            initial={{ opacity: 0, y: 15 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.65, duration: 0.8 }}
+            className="hero-creators max-w-[700px] mx-auto mb-8"
+          >
+            Fahlig Aryo Jenar Maheswara &bull; Muhammad Farhan Fauzul Adzim &bull; Priyamitha Aristadewi &bull; Virziankha Merdeka Darwanto
           </motion.p>
 
           {/* CTA Buttons */}
