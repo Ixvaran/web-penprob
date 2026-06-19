@@ -101,6 +101,6 @@ npm run build
 
 ---
 
-## 📄 Lisensi
+## Lisensi
 
 Proyek ini dibuat untuk keperluan akademis.
