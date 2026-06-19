@@ -14,9 +14,9 @@
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
-### 📚 Konten Pembelajaran
+### Konten Pembelajaran
 
 - **Pengertian Distribusi Normal** — Sejarah, definisi, dan 6 sifat kurva normal
 - **Karakteristik** — Mean, variansi, deviasi standar, aturan empiris (68-95-99.7%)
@@ -24,7 +24,7 @@
 - **Distribusi Normal Baku** — Standardisasi Z-score dan tabel Z lengkap
 - **Invers Normal Baku** — Fungsi kuantil dan nilai kritis
 
-### 🧮 Kalkulator Interaktif
+### Kalkulator Interaktif
 
 - **Z-Score Calculator** — Hitung Z-score dan probabilitas secara real-time
 - **Inverse Normal Calculator** — Cari Z dari probabilitas kumulatif
@@ -32,7 +32,7 @@
 
 ![Kalkulator Interaktif](screenshots/kalkulator.png)
 
-### 📊 Visualisasi
+### Visualisasi
 
 - Kurva normal animasi (SVG + Framer Motion)
 - Area probabilitas yang diarsir
@@ -40,7 +40,7 @@
 
 ![Kurva Interaktif](screenshots/kurva-interaktif.png)
 
-### 📝 Latihan
+### Latihan
 
 - 9 contoh soal lengkap dengan pembahasan langkah demi langkah
 - 4 soal latihan untuk uji pemahaman
@@ -50,7 +50,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Teknologi | Kegunaan |
 |-----------|----------|
@@ -64,7 +64,7 @@
 
 ---
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 ```bash
 # Clone repository
@@ -83,7 +83,7 @@ npm run build
 
 ---
 
-## 👥 Kontributor
+## Kontributor
 
 | Nama |
 |------|
@@ -94,7 +94,7 @@ npm run build
 
 ---
 
-## 📖 Daftar Pustaka
+## Daftar Pustaka
 
 1. Walpole, R. E., Myers, R. H., Myers, S. L., & Ye, K. (1993). *Probability and Statistics for Engineers and Scientists* (Vol. 5, pp. 326–332). New York: Macmillan.
 2. Pratikno, A. S., Prastiwi, A. A., & Ramahwati, S. (2020). Sebaran peluang acak kontinu, distribusi normal, distribusi normal baku, distribusi T, distribusi Chi Square, dan distribusi F. *Osf Preprints*, 27(3), 1–5.
